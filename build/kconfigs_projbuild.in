@@ -1,0 +1,6 @@
+source "F:/esp-idf-tool/v5.5.1/esp-idf/components/bootloader/Kconfig.projbuild"
+source "F:/esp-idf-tool/v5.5.1/esp-idf/components/esp_app_format/Kconfig.projbuild"
+source "F:/esp-idf-tool/v5.5.1/esp-idf/components/esp_rom/Kconfig.projbuild"
+source "F:/esp-idf-tool/v5.5.1/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "F:/esp-idf-tool/v5.5.1/esp-idf/components/partition_table/Kconfig.projbuild"
+source "C:/Users/ROG/Desktop/WORK/Embedded_esp32s3_project/ESP32-S3-Touch-LCD-2.8-Demo/ESP-IDF/ESP32-S3-Touch-LCD-2.8-Test/main/Kconfig.projbuild"
